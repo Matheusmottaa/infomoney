@@ -1,6 +1,7 @@
 # A finances application 
 
-Made with: 
+app for personal finance control made with: 
+
   - Typescript 
   - React 
   - Styled components
